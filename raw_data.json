@@ -1,0 +1,356 @@
+{
+  "github": [
+    {
+      "title": "mckays-app-template",
+      "description": "This is the template I use to start new full-stack projects.",
+      "stars": 1935,
+      "language": "TypeScript",
+      "url": "https://github.com/mckaywrigley/mckays-app-template"
+    },
+    {
+      "title": "StreamingT2V",
+      "description": "[CVPR 2025] StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text",
+      "stars": 1630,
+      "language": "Python",
+      "url": "https://github.com/Picsart-AI-Research/StreamingT2V"
+    },
+    {
+      "title": "ACE_plus",
+      "description": null,
+      "stars": 1360,
+      "language": "Python",
+      "url": "https://github.com/ali-vilab/ACE_plus"
+    },
+    {
+      "title": "ELLA",
+      "description": "ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment",
+      "stars": 1281,
+      "language": "Python",
+      "url": "https://github.com/TencentQQGYLab/ELLA"
+    },
+    {
+      "title": "langchat",
+      "description": "LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ \u667a\u8c31\u6e05\u8a00 / \u963f\u91cc\u901a\u4e49 / \u767e\u5ea6\u5343\u5e06 / DeepSeek / \u6296\u97f3\u8c46\u5305 / \u96f6\u4e00\u4e07\u7269 / \u8baf\u98de\u661f\u706b / OpenAI / Gemini / Ollama / Azure / Claude \u7b49\u5927\u6a21\u578b), Java\u751f\u6001\u4e0bAI\u5927\u6a21\u578b\u4ea7\u54c1\u89e3\u51b3\u65b9\u6848\uff0c\u5feb\u901f\u6784\u5efa\u4f01\u4e1a\u7ea7AI\u77e5\u8bc6\u5e93\u3001AI\u673a\u5668\u4eba\u5e94\u7528",
+      "stars": 1249,
+      "language": "Java",
+      "url": "https://github.com/LangChat/langchat"
+    },
+    {
+      "title": "http-267",
+      "description": "HTTP 267 Doubtful But Okay",
+      "stars": 1239,
+      "language": null,
+      "url": "https://github.com/maximal/http-267"
+    },
+    {
+      "title": "election2024",
+      "description": "\u6771\u4eac\u90fd\u77e5\u4e8b\u90782024\u306e\u30ea\u30dd\u30b8\u30c8\u30ea",
+      "stars": 1201,
+      "language": "HTML",
+      "url": "https://github.com/takahiroanno2024/election2024"
+    },
+    {
+      "title": "sniffly",
+      "description": "Claude Code dashboard with usage stats, error analysis, and sharable feature",
+      "stars": 1201,
+      "language": "Python",
+      "url": "https://github.com/chiphuyen/sniffly"
+    },
+    {
+      "title": "WebVideo2NAS",
+      "description": "A lightweight browser-to-NAS pipeline for capturing and downloading web videos. It integrates a Chrome Extension with a NAS-hosted Docker backend (FastAPI, workers, FFmpeg) to automatically detect, queue, download, and process web video streams, converting them into playable MP4 files for long-term storage.",
+      "stars": 1144,
+      "language": "JavaScript",
+      "url": "https://github.com/asdfghj1237890/WebVideo2NAS"
+    },
+    {
+      "title": "together-cookbook",
+      "description": "A collection of notebooks/recipes showcasing usecases of open-source models with Together AI.",
+      "stars": 1121,
+      "language": "Jupyter Notebook",
+      "url": "https://github.com/togethercomputer/together-cookbook"
+    },
+    {
+      "title": "BOAT",
+      "description": "A Compositional Operation Toolbox for Gradient-based Bi-Level Optimization",
+      "stars": 1061,
+      "language": "Python",
+      "url": "https://github.com/callous-youth/BOAT"
+    },
+    {
+      "title": "balancing-cube",
+      "description": "A cube that balances itself in a corner or edge using reaction wheels",
+      "stars": 1044,
+      "language": "C++",
+      "url": "https://github.com/willem-pennings/balancing-cube"
+    },
+    {
+      "title": "MathBlackBox",
+      "description": null,
+      "stars": 1034,
+      "language": "Python",
+      "url": "https://github.com/trotsky1997/MathBlackBox"
+    },
+    {
+      "title": "DeepWism-R2",
+      "description": "DeepWism R2 is a next-generation AGI system built on the T3CEDS framework (Thin-Thick-Thin Crowd Entropy Dynamics System), which redefines intelligence as a process of entropy reduction rather than attention modeling.",
+      "stars": 1017,
+      "language": null,
+      "url": "https://github.com/DeepWism/DeepWism-R2"
+    },
+    {
+      "title": "karma",
+      "description": "\u65b0\u6570\u636e\u6d1e\u5bdf\u65b9\u5f0f",
+      "stars": 1005,
+      "language": "Java",
+      "url": "https://github.com/CyrilFeng/karma"
+    },
+    {
+      "title": "The-Little-Book-of-ML-Metrics",
+      "description": "The book every data scientist needs on their desk.",
+      "stars": 997,
+      "language": "Jupyter Notebook",
+      "url": "https://github.com/NannyML/The-Little-Book-of-ML-Metrics"
+    },
+    {
+      "title": "Trading-Bot-for-Binance-Future",
+      "description": "Trading Bot for Binance Future",
+      "stars": 953,
+      "language": "Python",
+      "url": "https://github.com/thomasdutraa07/Trading-Bot-for-Binance-Future"
+    },
+    {
+      "title": "groq-moa",
+      "description": "Mixture of Agents using Groq",
+      "stars": 934,
+      "language": "Python",
+      "url": "https://github.com/skapadia3214/groq-moa"
+    },
+    {
+      "title": "remix-words-funny",
+      "description": "a fullstack English words study website: remix (react-router v7) + trpc + drizzle + postgresql + heroui + jotai + docker",
+      "stars": 919,
+      "language": "TypeScript",
+      "url": "https://github.com/SteveSuv/remix-words-funny"
+    },
+    {
+      "title": "BountyBoard",
+      "description": "Bounty Board is a decentralized platform designed to streamline Web3 community activities. ",
+      "stars": 903,
+      "language": "TypeScript",
+      "url": "https://github.com/veithly/BountyBoard"
+    }
+  ],
+  "hackernews": [
+    {
+      "title": "You can't trust macOS Privacy and Security settings",
+      "score": 242,
+      "url": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
+      "author": "zdw"
+    },
+    {
+      "title": "WireGuard makes new Windows release following Microsoft signing resolution",
+      "score": 176,
+      "url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
+      "author": "zx2c4"
+    },
+    {
+      "title": "1D Chess",
+      "score": 214,
+      "url": "https://rowan441.github.io/1dchess/chess.html",
+      "author": "burnt-resistor"
+    },
+    {
+      "title": "Industrial design files for Keychron keyboards and mice",
+      "score": 107,
+      "url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
+      "author": "stingraycharles"
+    },
+    {
+      "title": "Helium Is Hard to Replace",
+      "score": 112,
+      "url": "https://www.construction-physics.com/p/helium-is-hard-to-replace",
+      "author": "JumpCrisscross"
+    },
+    {
+      "title": "CPU-Z and HWMonitor compromised",
+      "score": 105,
+      "url": "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/",
+      "author": "pashadee"
+    },
+    {
+      "title": "Bluesky April 2026 Outage Post-Mortem",
+      "score": 63,
+      "url": "https://pckt.blog/b/jcalabro/april-2026-outage-post-mortem-219ebg2",
+      "author": "jcalabro"
+    },
+    {
+      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+      "score": 1,
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer",
+      "author": "rooppal"
+    },
+    {
+      "title": "Launch HN: Twill.ai (YC S25) \u2013 Delegate to cloud agents, get back PRs",
+      "score": 9,
+      "url": "https://twill.ai",
+      "author": "danoandco"
+    },
+    {
+      "title": "Clojure on Fennel Part One: Persistent Data Structures",
+      "score": 62,
+      "url": "https://andreyor.st/posts/2026-04-07-clojure-on-fennel-part-one-persistent-data-structures/",
+      "author": "roxolotl"
+    },
+    {
+      "title": "A compelling title that is cryptic enough to get you to take action on it",
+      "score": 24,
+      "url": "https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/",
+      "author": "mooreds"
+    },
+    {
+      "title": "Mysteries of Dropbox: Testing of a Distributed Sync Service (2016) [pdf]",
+      "score": 87,
+      "url": "https://www.cis.upenn.edu/~bcpierce/papers/mysteriesofdropbox.pdf",
+      "author": "JackeJR"
+    },
+    {
+      "title": "The difficulty of making sure your website is broken",
+      "score": 13,
+      "url": "https://letsencrypt.org/2026/04/10/test-sites.html",
+      "author": "mcpherrinm"
+    },
+    {
+      "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
+      "score": 450,
+      "url": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/",
+      "author": "01-_-"
+    },
+    {
+      "title": "How NASA built Artemis II\u2019s fault-tolerant computer",
+      "score": 561,
+      "url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
+      "author": "speckx"
+    },
+    {
+      "title": "I still prefer MCP over skills",
+      "score": 394,
+      "url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
+      "author": "gmays"
+    },
+    {
+      "title": "RSoC 2026: A new CPU scheduler for Redox OS",
+      "score": 21,
+      "url": "https://www.redox-os.org/news/rsoc-dwrr/",
+      "author": "akyuu"
+    },
+    {
+      "title": "C++: Freestanding Standard Library",
+      "score": 28,
+      "url": "https://www.sandordargo.com/blog/2026/04/08/cpp-freestanding",
+      "author": "ingve"
+    },
+    {
+      "title": "Penguin 'Toxicologists' Find PFAS Chemicals in Remote Patagonia",
+      "score": 117,
+      "url": "https://www.ucdavis.edu/health/news/penguin-toxicologists-find-pfas-chemicals-remote-patagonia",
+      "author": "giuliomagnifico"
+    },
+    {
+      "title": "A new trick brings stability to quantum operations",
+      "score": 210,
+      "url": "https://ethz.ch/en/news-and-events/eth-news/news/2026/04/a-new-trick-brings-stability-to-quantum-operations.html",
+      "author": "joko42"
+    },
+    {
+      "title": "France to ditch Windows for Linux to reduce reliance on US tech",
+      "score": 267,
+      "url": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/",
+      "author": "Teever"
+    },
+    {
+      "title": "Native Instant Space Switching on macOS",
+      "score": 604,
+      "url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
+      "author": "PaulHoule"
+    },
+    {
+      "title": "HBO Obtains DMCA Subpoena to Unmask 'Euphoria' Spoiler Account on X",
+      "score": 14,
+      "url": "https://torrentfreak.com/hbo-obtains-dmca-subpoena-to-unmask-euphoria-spoiler-account-on-x/",
+      "author": "speckx"
+    },
+    {
+      "title": "Deterministic Primality Testing for Limited Bit Width",
+      "score": 18,
+      "url": "https://www.jeremykun.com/2026/04/07/deterministic-miller-rabin/",
+      "author": "ibobev"
+    },
+    {
+      "title": "Supply chain nightmare: How Rust will be attacked and what we can do to mitigate",
+      "score": 77,
+      "url": "https://kerkour.com/rust-supply-chain-nightmare",
+      "author": "fanf2"
+    },
+    {
+      "title": "We've raised $17M to build what comes after Git",
+      "score": 275,
+      "url": "https://blog.gitbutler.com/series-a",
+      "author": "ellieh"
+    },
+    {
+      "title": "DRAM has a design flaw from 1966. I bypassed it [video]",
+      "score": 362,
+      "url": "https://www.youtube.com/watch?v=KKbgulTp3FE",
+      "author": "surprisetalk"
+    },
+    {
+      "title": "Code is run more than read (2023)",
+      "score": 99,
+      "url": "https://olano.dev/blog/code-is-run-more-than-read/",
+      "author": "facundo_olano"
+    },
+    {
+      "title": "Why I'm Building a Database Engine in C#",
+      "score": 33,
+      "url": "https://nockawa.github.io/blog/why-building-database-engine-in-csharp/",
+      "author": "vyrotek"
+    },
+    {
+      "title": "Adobe Diddles with Your /etc./Hosts File",
+      "score": 5,
+      "url": "https://old.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/oe1ap9h/",
+      "author": "Brajeshwar"
+    },
+    {
+      "title": "Generative art over the years",
+      "score": 218,
+      "url": "https://blog.veitheller.de/Generative_art_over_the_years.html",
+      "author": "evakhoury"
+    },
+    {
+      "title": "Autonomy Is Real Now",
+      "score": 5,
+      "url": "https://steelforfuel.substack.com/p/autonomy-is-real-now",
+      "author": "simonebrunozzi"
+    },
+    {
+      "title": "Charcuterie \u2013 Visual similarity Unicode explorer",
+      "score": 299,
+      "url": "https://charcuterie.elastiq.ch/",
+      "author": "rickcarlino"
+    },
+    {
+      "title": "Show HN: Keeper \u2013 embedded secret store for Go (help me break it)",
+      "score": 54,
+      "url": "https://github.com/agberohq/keeper",
+      "author": "babawere"
+    },
+    {
+      "title": "Show HN: Marimo pair \u2013 Reactive Python notebooks as environments for agents",
+      "score": 104,
+      "url": "https://github.com/marimo-team/marimo-pair",
+      "author": "manzt"
+    }
+  ]
+}
