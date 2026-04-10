@@ -1,4 +1,4 @@
-# 📊 TrendPulse — Project Report
+# TrendPulse — Project Report
 ### What's Actually Trending Right Now | HackerNews Data Pipeline
 
 > **Date Collected:** 10 April 2026  
@@ -139,7 +139,7 @@ for category_name in CATEGORIES:
 
 ### Output
 
-```
+```Terminal
 ============================================================
 TrendPulse — Task 1: Data Collection
 ============================================================
@@ -339,7 +339,7 @@ df["title"] = df["title"].str.strip()
 
 ### Output
 
-```
+```Terminal
 After removing nulls: 90
 Data types fixed: score and num_comments are now integers.
 After removing low scores: 83
@@ -432,7 +432,7 @@ df["is_popular"] = df["score"] > average_score
 
 ### Output
 
-```
+```Terminal
 Most commented story: "We've raised $17M to build what comes after Git"
   — 604 comments
 
@@ -476,7 +476,7 @@ The `savefig()` → `close()` pattern was followed for every chart to ensure fil
 
 ### Chart 1 — Top 10 Stories by Score
 
-![Top 10 HackerNews Stories by Score](chart1_top_stories.png)
+![Top 10 HackerNews Stories by Score](outputs/chart1_top_stories.png)
 
 **What the chart shows:** The top-ranked story (*"Git commands I run before reading any code"*) scored **2,263 upvotes** — nearly 3× more than the second-place story. Positions 3–10 are much closer together, suggesting one viral outlier dominated the day's feed.
 
@@ -498,7 +498,7 @@ ax.invert_yaxis()   # rank #1 at the TOP, not the bottom
 
 ### Chart 2 — Stories per Category
 
-![Number of Stories per Category](chart2_categories.png)
+![Number of Stories per Category](outputs/chart2_categories.png)
 
 **What the chart shows:** Technology and entertainment tied at **24 stories each**, followed by worldnews (20). Sports (9) and science (6) had far fewer matches — HackerNews simply had fewer qualifying posts in those categories on this date.
 
@@ -518,7 +518,7 @@ for i, value in enumerate(category_values):
 
 ### Chart 3 — Score vs Comments (Scatter Plot)
 
-![Score vs Number of Comments](chart3_scatter.png)
+![Score vs Number of Comments](outputs/chart3_scatter.png)
 
 **What the chart shows:** There is a **loose positive trend** — higher-scoring stories tend to get more comments. However, some stories with moderate scores still attracted huge comment counts (e.g., the $17M Git story at ~350 score but 604 comments), suggesting certain topics spark debate regardless of upvotes.
 
@@ -544,7 +544,7 @@ ax.legend(title="Story Type")   # legend generated automatically from label= val
 
 ### Dashboard (Bonus) — All 3 Charts Combined
 
-![TrendPulse Dashboard](dashboard.png)
+![TrendPulse Dashboard](outputs/dashboard.png)
 
 **What it shows:** A single image containing all three charts side by side under the title "TrendPulse Dashboard" — useful for sharing the full picture at a glance.
 
