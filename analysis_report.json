@@ -1,0 +1,317 @@
+{
+  "total_records": 55,
+  "average_score": 521.05,
+  "average_comments": 0.0,
+  "highest_record": {
+    "source": "github",
+    "title": "mckays-app-template",
+    "description": "This is the template I use to start new full-stack projects.",
+    "score": 1935,
+    "language": "TypeScript",
+    "url": "https://github.com/mckaywrigley/mckays-app-template",
+    "comments": 0,
+    "posted_on": "",
+    "type": "repository"
+  },
+  "lowest_record": {
+    "source": "hackernews",
+    "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+    "description": "",
+    "score": 1,
+    "language": "N/A",
+    "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer",
+    "comments": 0,
+    "posted_on": "",
+    "type": "story"
+  },
+  "source_counts": {
+    "github": 20,
+    "hackernews": 35
+  },
+  "language_counts": {
+    "TypeScript": 3,
+    "Python": 8,
+    "Java": 2,
+    "": 2,
+    "HTML": 1,
+    "JavaScript": 1,
+    "Jupyter Notebook": 2,
+    "C++": 1
+  },
+  "story_type_counts": {
+    "story": 35
+  },
+  "top_5_by_score": [
+    {
+      "title": "mckays-app-template",
+      "score": 1935,
+      "source": "github"
+    },
+    {
+      "title": "StreamingT2V",
+      "score": 1630,
+      "source": "github"
+    },
+    {
+      "title": "ACE_plus",
+      "score": 1360,
+      "source": "github"
+    },
+    {
+      "title": "ELLA",
+      "score": 1281,
+      "source": "github"
+    },
+    {
+      "title": "langchat",
+      "score": 1249,
+      "source": "github"
+    }
+  ],
+  "top_5_by_comments": [
+    {
+      "title": "Native Instant Space Switching on macOS",
+      "comments": 0,
+      "score": 604
+    },
+    {
+      "title": "How NASA built Artemis II\u2019s fault-tolerant computer",
+      "comments": 0,
+      "score": 561
+    },
+    {
+      "title": "FBI used iPhone notification data to retrieve deleted Signal messages",
+      "comments": 0,
+      "score": 450
+    },
+    {
+      "title": "I still prefer MCP over skills",
+      "comments": 0,
+      "score": 394
+    },
+    {
+      "title": "DRAM has a design flaw from 1966. I bypassed it [video]",
+      "comments": 0,
+      "score": 362
+    }
+  ],
+  "top_keywords": [
+    {
+      "word": "macos",
+      "count": 2
+    },
+    {
+      "word": "data",
+      "count": 2
+    },
+    {
+      "word": "over",
+      "count": 2
+    },
+    {
+      "word": "design",
+      "count": 2
+    },
+    {
+      "word": "windows",
+      "count": 2
+    },
+    {
+      "word": "you",
+      "count": 2
+    },
+    {
+      "word": "show",
+      "count": 2
+    },
+    {
+      "word": "agents",
+      "count": 2
+    },
+    {
+      "word": "testing",
+      "count": 2
+    },
+    {
+      "word": "get",
+      "count": 2
+    }
+  ],
+  "score_vs_comments": [
+    {
+      "title": "Native Instant Space Switching on macOS",
+      "score": 604,
+      "comments": 0
+    },
+    {
+      "title": "How NASA built Artemis II\u2019s fault-tolera",
+      "score": 561,
+      "comments": 0
+    },
+    {
+      "title": "FBI used iPhone notification data to ret",
+      "score": 450,
+      "comments": 0
+    },
+    {
+      "title": "I still prefer MCP over skills",
+      "score": 394,
+      "comments": 0
+    },
+    {
+      "title": "DRAM has a design flaw from 1966. I bypa",
+      "score": 362,
+      "comments": 0
+    },
+    {
+      "title": "Charcuterie \u2013 Visual similarity Unicode ",
+      "score": 299,
+      "comments": 0
+    },
+    {
+      "title": "We've raised $17M to build what comes af",
+      "score": 275,
+      "comments": 0
+    },
+    {
+      "title": "France to ditch Windows for Linux to red",
+      "score": 267,
+      "comments": 0
+    },
+    {
+      "title": "You can't trust macOS Privacy and Securi",
+      "score": 242,
+      "comments": 0
+    },
+    {
+      "title": "Generative art over the years",
+      "score": 218,
+      "comments": 0
+    },
+    {
+      "title": "1D Chess",
+      "score": 214,
+      "comments": 0
+    },
+    {
+      "title": "A new trick brings stability to quantum ",
+      "score": 210,
+      "comments": 0
+    },
+    {
+      "title": "WireGuard makes new Windows release foll",
+      "score": 176,
+      "comments": 0
+    },
+    {
+      "title": "Penguin 'Toxicologists' Find PFAS Chemic",
+      "score": 117,
+      "comments": 0
+    },
+    {
+      "title": "Helium Is Hard to Replace",
+      "score": 112,
+      "comments": 0
+    },
+    {
+      "title": "Industrial design files for Keychron key",
+      "score": 107,
+      "comments": 0
+    },
+    {
+      "title": "CPU-Z and HWMonitor compromised",
+      "score": 105,
+      "comments": 0
+    },
+    {
+      "title": "Show HN: Marimo pair \u2013 Reactive Python n",
+      "score": 104,
+      "comments": 0
+    },
+    {
+      "title": "Code is run more than read (2023)",
+      "score": 99,
+      "comments": 0
+    },
+    {
+      "title": "Mysteries of Dropbox: Testing of a Distr",
+      "score": 87,
+      "comments": 0
+    },
+    {
+      "title": "Supply chain nightmare: How Rust will be",
+      "score": 77,
+      "comments": 0
+    },
+    {
+      "title": "Bluesky April 2026 Outage Post-Mortem",
+      "score": 63,
+      "comments": 0
+    },
+    {
+      "title": "Clojure on Fennel Part One: Persistent D",
+      "score": 62,
+      "comments": 0
+    },
+    {
+      "title": "Show HN: Keeper \u2013 embedded secret store ",
+      "score": 54,
+      "comments": 0
+    },
+    {
+      "title": "Why I'm Building a Database Engine in C#",
+      "score": 33,
+      "comments": 0
+    },
+    {
+      "title": "C++: Freestanding Standard Library",
+      "score": 28,
+      "comments": 0
+    },
+    {
+      "title": "A compelling title that is cryptic enoug",
+      "score": 24,
+      "comments": 0
+    },
+    {
+      "title": "RSoC 2026: A new CPU scheduler for Redox",
+      "score": 21,
+      "comments": 0
+    },
+    {
+      "title": "Deterministic Primality Testing for Limi",
+      "score": 18,
+      "comments": 0
+    },
+    {
+      "title": "HBO Obtains DMCA Subpoena to Unmask 'Eup",
+      "score": 14,
+      "comments": 0
+    },
+    {
+      "title": "The difficulty of making sure your websi",
+      "score": 13,
+      "comments": 0
+    },
+    {
+      "title": "Launch HN: Twill.ai (YC S25) \u2013 Delegate ",
+      "score": 9,
+      "comments": 0
+    },
+    {
+      "title": "Autonomy Is Real Now",
+      "score": 5,
+      "comments": 0
+    },
+    {
+      "title": "Adobe Diddles with Your /etc./Hosts File",
+      "score": 5,
+      "comments": 0
+    },
+    {
+      "title": "Bild AI (YC W25) Is Hiring a Founding Pr",
+      "score": 1,
+      "comments": 0
+    }
+  ]
+}
